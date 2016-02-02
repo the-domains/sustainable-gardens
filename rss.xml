@@ -2,16 +2,15 @@
     <channel>
         <title><![CDATA[Sustainable Gardens]]></title>
         <description><![CDATA[Sustainable Gardens]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sustainable-gardens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 23:45:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 23:49:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sustainable-gardens/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sustainable Gardens provides customized care and personal attention to clients who want the very best in garden maintenance and management. Our mission, to help to reduce the use of fossils fuels and pollution. Gasoline equipment is not environmentally friendly. It is noisy of while consuming non renewable resource, require storage of fuel with  dangerous gas containers, along with requiring frequent maintenance. Many gasoline mowers and equipment emit more pollutants than an automobile and waste millions of barrels of oil, while producing huge amounts of unnecessary emissions, many ending up in the air we breath and water we drink. Every year millions of gas and oil are spilled into our yards while filling lawn equipment. </p>]]></description>
-            <link>undefined3a0d415a-0d64-48f6-8d88-395c2a9bd33a/index.html</link>
+            <link>https://thegrid.ai/sustainable-gardens/3a0d415a-0d64-48f6-8d88-395c2a9bd33a/index.html</link>
             <guid isPermaLink="false">3a0d415a-0d64-48f6-8d88-395c2a9bd33a</guid>
-            <pubDate>Tue, 02 Feb 2016 23:45:18 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 23:49:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
