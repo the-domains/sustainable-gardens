@@ -1,28 +1,40 @@
-name: Sustainable Gardens
 favicon: null
-layout_spectrum: 0.96983
-typography_spectrum: 0.08899
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Sustainable Gardens
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7900108
+  brandStrength: 0.9414311063010246
+  lightness: 0.6911923
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9414311063010246
-  lightness: 0.6467289056163281
-  saturation: 0.9326511528342962
-  rhythmicContrast: 0.4518316558096558
-purpose: []
+  rhythmicContrast: 0.7513427
+typography_spectrum: 0.08899
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.96983
+analytics:
+  twitter: null
+  google: null
+  facebook: null
